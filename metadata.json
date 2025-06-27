@@ -1,0 +1,6 @@
+{
+  "name": "AI Photo Editor Pro",
+  "description": "An advanced photo editor that leverages AI to offer powerful features like automatic beautification, background removal, and image quality enhancement through generative AI.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
